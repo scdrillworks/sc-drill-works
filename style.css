@@ -142,8 +142,9 @@ font-size:28px;
     width:100%;
     max-width:700px;
     display:block;
-    margin:20 auto;
+    margin:20px auto 50px auto;
     border-radius:10px;
+}
 }#gallery{
     text-align:center;
     padding:40px 20px;
