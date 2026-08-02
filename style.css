@@ -138,11 +138,12 @@ margin-top:15px;
 font-size:28px;
 }
 
-}..hero-image{
+}.hero-image{
     width:100%;
     max-width:700px;
     display:block;
-    margin:20px auto 40px auto;
+    margin:20px auto;
+    margin-bottom:50px;
     border-radius:10px;
 }
 }
