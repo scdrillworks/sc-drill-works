@@ -45,7 +45,6 @@ nav a:hover{
     padding:0 10px 20px;
     background:linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7));
 }
-}
 
 .hero h2{
     font-size:38px;
@@ -144,9 +143,7 @@ font-size:28px;
     display:block;
     margin:20px auto;
     border-radius:10px;
-}
-}
-}
+    
 }#gallery{
     text-align:center;
     padding:40px 20px;
